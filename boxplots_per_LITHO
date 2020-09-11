@@ -1,9 +1,0 @@
-column3 = 'LITHO'
-for column1 in plottable_columns: 
-    plt.clf()
-    x = data[[column1,column3]]
-    x = x.dropna()
-    x = x.replace([np.inf, -np.inf], np.nan).dropna()
-    ax=sns.boxplot(x="LITHO", y=column1, data=x) 
-    ax.set_xticklabels(ax.get_xticklabels(),rotation=30) 
-    plt.savefig("boxplot_" + "litho_" + column1 + ".png") 
