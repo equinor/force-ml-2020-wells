@@ -9,3 +9,5 @@ Firstly, the team went through an Exploratory Data Analysis (EDA) phase, aiming 
 A general presentation can be found on SharePoint following this [link](https://statoilsrm.sharepoint.com/:p:/s/FORCEMLContest2020-WellLogs/EX-AgAL10o9OtpGtT2lY49MBK2RpncgYDVHg3SzFoD3yVQ?e=KFIxfq).
 
 More information can be found on the [Xeek](https://xeek.ai/challenges/force-well-logs/overview) platform for this event.
+
+The link to the model weights is: https://statoilsrm-my.sharepoint.com/:f:/g/personal/hzan_equinor_com/EnRvm3FDU_NKmWkKryj5G08BYe8v4Wt5gUKJtIRyVhGYYA?e=5PaLe7
