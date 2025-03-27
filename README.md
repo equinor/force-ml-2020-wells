@@ -1,5 +1,7 @@
 # FORCE 2020 Machine Learning Contest - Well logs
 
+### NOTE: This repository is archived since 27 March 2025.
+
 This GitHub repo relates to the Well Log competition of the [FORCE 2020 Machine Learning Contest](https://www.npd.no/en/force/events/machine-learning-contest-with-wells-and-seismic/), sponsored by Equinor.
 
 The objective of the competition is to correctly predict lithology labels for provided well logs, provided NPD lithostratigraphy and well X, Y position. The training dataset contains 98 wells, whereas the test dataset includes 10 wells.
